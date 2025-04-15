@@ -1,0 +1,8 @@
+test0415
+$ git init
+$ git remote add origin https://github.com/pace1953/GitResource.git
+$ git add .
+$ git commit -m "fileName"
+$ git push
+
+
